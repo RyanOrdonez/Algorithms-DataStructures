@@ -1,29 +1,20 @@
-# Algorithms & Data Structures
+# Algorithms and Data Structures
 
-This repository contains coursework and projects from my Algorithms and Data Mining courses.
+This repository contains coursework and projects for the Algorithms and Data Structures track.
 
-## Courses Included
+## Course Structure
 
-### Algorithms
-- DTSA 5501: Algorithms for Searching, Sorting, and Indexing
-- DTSA 5502: Trees and Graphs Basics
-- DTSA 5503: Dynamic Programming Greedy Algorithms
+### Core Algorithms Track
+- DTSA_5501_Algorithms_for_Searching_Sorting_and_Indexing
+- DTSA_5502_Trees_and_Graphs_Basics
+- DTSA_5503_Dynamic_Programming_and_Greedy_Algorithms
 
-### Data Mining
-- DTSA 5504: Data Mining Pipeline
-- DTSA 5505: Data Mining Methods
-- DTSA 5506: Data Mining Project
-
-## Repository Structure
-
-```
-├── Searching-Sorting/
-├── Trees-Graphs/
-├── Dynamic-Programming/
-├── Data-Mining-Pipeline/
-├── Mining-Methods/
-└── Mining-Projects/
-```
+## Directory Structure
+Each course folder contains:
+- `data/`: Datasets used in the course
+- `course_material/`: Lectures, notes, and resources
+- `projects/`: Course assignments and projects
+- Course overview Jupyter notebook
 
 ## Technologies Used
 - Python
